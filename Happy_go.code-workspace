@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../../Happy_go"
+		},
+		{
+			"path": "../../Python"
+		},
+		{
+			"path": "../../C++"
+		},
+		{
+			"path": "../../Web_development"
+		},
+		{
+			"path": "../../React"
+		},
+		{
+			"path": "../../login form"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Happy_go"
+	}
+}
